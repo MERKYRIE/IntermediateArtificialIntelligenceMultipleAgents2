@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2.hpp" />
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Debug.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Interface.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Keyboard.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Mouse.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Space.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Time.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio\Sound.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio\Track.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Font.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Image.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Sprite.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Space\Entity.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Space</Filter>
+    </ClInclude>
+    <ClInclude Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Mouse\Button.hpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Mouse</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2.cpp" />
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Debug.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Interface.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Keyboard.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Mouse.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Space.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Time.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio\Sound.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Audio\Track.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Font.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Image.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Video\Sprite.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Space\Entity.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Space</Filter>
+    </ClCompile>
+    <ClCompile Include="_Input\_\IntermediateArtificialIntelligenceMultipleAgents2\Mouse\Button.cpp">
+      <Filter>IntermediateArtificialIntelligenceMultipleAgents2\Mouse</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="IntermediateArtificialIntelligenceMultipleAgents2">
+      <UniqueIdentifier>{eb6a0017-5670-4b3c-b279-e256312b3432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IntermediateArtificialIntelligenceMultipleAgents2\Audio">
+      <UniqueIdentifier>{21b6f5a1-1e17-4764-b5ec-6e4f6dc4f843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IntermediateArtificialIntelligenceMultipleAgents2\Space">
+      <UniqueIdentifier>{8da8d131-199a-44ea-8a0d-d36383f72ecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IntermediateArtificialIntelligenceMultipleAgents2\Video">
+      <UniqueIdentifier>{98f1907e-207b-4f10-9e35-54573adf1f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IntermediateArtificialIntelligenceMultipleAgents2\Mouse">
+      <UniqueIdentifier>{e6922db7-0120-4d7d-92df-8c3d191ea85f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
